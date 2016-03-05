@@ -1,0 +1,5 @@
+# Set timer in minutes
+25
+
+# Set URL to open
+https://www.youtube.com/watch?v=LY6h3pkdsro
