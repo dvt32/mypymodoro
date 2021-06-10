@@ -22,7 +22,7 @@ pycmd  # Contains 'py.cleanup' that removes all .pyc files and similar.
 # Url for downloading PyCrypto prebuilt Windows binaries:
 # http://www.voidspace.org.uk/python/pycrypto-2.6.1/
 pycrypto==2.6.1  # Required for crypto feature - encrypting bytecode.
-Django==1.11.29
+Django==2.2.24
 # Latest babel 1.3.1 fails with Python 3.3/3.4 on Windows:
 # https://github.com/mitsuhiko/babel/issues/174
 babel==1.3  # Required by sphinx. This version works on Windows.
